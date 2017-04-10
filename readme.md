@@ -17,6 +17,7 @@ This script aims to pick up where [BeautifulDiscord](https://github.com/leovoel/
 4. Run `npm run install`
 
 To uninstall, run `npm run uninstall`
+
 To reinstall, run `npm run reinstall`
 
 ## Requirements
