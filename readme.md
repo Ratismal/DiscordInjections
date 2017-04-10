@@ -16,6 +16,9 @@ This script aims to pick up where [BeautifulDiscord](https://github.com/leovoel/
 3. Run `npm install`
 4. Run `npm run install`
 
+To uninstall, run `npm run uninstall`
+To reinstall, run `npm run reinstall`
+
 ## Requirements
 
 This module requires you to have node.js installed with ES6 support. [Install](https://nodejs.org/en/download/)
